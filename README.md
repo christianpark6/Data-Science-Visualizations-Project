@@ -1,3 +1,4 @@
+# Data-Science-Visualiations-Project
 The goal of this project was to conduct data analysis on datasets that included characteristics of national parks all around the world. I wanted to find predictors and find factors that could help explain the population of various animals found in these parks. Through the analysis I had to clean the data, create certain visualizations that would be applicable in terms of helping me conduct my analysis and test whether other recommended visualizations were appropriate.
 
 
