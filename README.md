@@ -1,3 +1,6 @@
+The goal of this project was to conduct data analysis on datasets that included characteristics of national parks all around the world. I wanted to find predictors and find factors that could help explain the population of various animals found in these parks. Through the analysis I had to clean the data, create certain visualizations that would be applicable in terms of helping me conduct my analysis and test whether other recommended visualizations were appropriate.
+
+
 Below are the instructions to do the following:
 1. Download CSV and create new data frame to use with code.
 2.Create a function that creates other data frames based on animal category.
